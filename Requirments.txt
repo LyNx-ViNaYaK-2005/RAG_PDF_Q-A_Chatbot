@@ -1,0 +1,12 @@
+These are the required packages for the RAG QA Chatbot project:
+
+torch
+transformers
+sentence-transformers
+PyMuPDF
+tqdm
+pandas
+numpy
+
+Additionally, you need a huggingface token to access the model. You can obtain it by creating an account on Hugging Face and generating a token from your account settings.
+The specific model used in the code is "google-gemma-2b-it", which is a large language model. You can find it on the Hugging Face model hub.
